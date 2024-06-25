@@ -1,7 +1,7 @@
 {
-  "name": "cca-boilerplate",
+  "name": "hubspot-cca-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A boilerplate for creating complex CCA's (Custom Coded Actions) for HubSpot",
   "type": "module",
   "main": "index.js",
   "scripts": {
