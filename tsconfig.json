@@ -3,7 +3,7 @@
     "module": "ESNext",
     "target": "ES2018",
     "moduleResolution": "node",
-    "lib": ["ESNext", "DOM"], // Adjust based on your environment needs
+    "lib": ["ESNext", "DOM"],
     "outDir": "./dist",
     "rootDir": "./src",
     "esModuleInterop": true,

@@ -15,7 +15,7 @@ export type HubSpotEvent = {
 };
 
 export type Callback = (params: {
-  outputFields: {
+  outputFields?: {
     [key: string]: unknown;
   };
 }) => void;
